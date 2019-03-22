@@ -6,3 +6,9 @@
 
 # rst2html outputs
 *.html
+
+# Swift package .gitignore
+.DS_Store
+/.build
+/Packages
+/*.xcodeproj
